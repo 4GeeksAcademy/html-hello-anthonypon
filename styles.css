@@ -1,0 +1,59 @@
+
+
+.post {
+
+    width: 400px;
+    background-color: rgb(71, 234, 225);
+    margin:auto;
+      
+}
+.post-header {
+    padding-top: 3px;
+    display: flex;
+    height: 25px;   
+        
+}
+
+.post-header-container {
+    display: flex;
+    font-size: 20px;
+    width: 400px;
+      
+}
+
+.fa-brands {
+    margin-left: 4px;
+    margin-right: 5px;
+    margin-bottom: 0;
+
+}
+
+.box1 p {
+    margin-top: 0;
+    margin-right: 330px;
+    margin-bottom: 0;
+
+}
+
+.post-image img{
+    width: 400px;
+}
+
+.post-body{
+    padding: 1px 10px 1px 10px;
+}
+
+.post-icons {
+    display: flex;
+
+}
+
+.left-icon {
+    margin-right: 3px;
+
+}
+
+.fa-envelope {
+    margin-right: 315px;
+}
+
